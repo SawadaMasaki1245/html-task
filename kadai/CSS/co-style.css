@@ -1,0 +1,53 @@
+.co1{
+text-align: center;
+padding: 0.5em 1em;
+    margin: 2em 0;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+img{
+    margin: 0 auto;
+    border-radius: 30px;
+}
+.tdc{
+    padding: 8px 19px;
+  margin: 2em 0;
+  color: #2c2c2f;
+  background: #cde4ff;
+  border-top: solid 5px #5989cf;
+  border-bottom: solid 5px #5989cf;
+}
+h1{
+    padding: 0.5em 1em;
+    margin: 2em 0 ;
+    color: #474747;
+    border-left: double 7px #4ec4d3;
+    border-right: double 7px #4ec4d3;
+}
+h2{
+    position: relative;
+    padding: 0.8rem 0;
+    margin-bottom: 0.2rem;
+    color: #333;
+    background: linear-gradient(90deg, #16b5dd 0%, #d815d8 100%);
+    background-repeat: no-repeat;
+    background-size: 50% 5px;
+    background-position: bottom;
+    font-weight: bold;
+    font-size: 26px;
+}
+.co2{
+    text-align: center;
+padding: 0.5em 1em;
+    margin: 2em 0;
+    border-top: solid 5px #5d627b;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.22);
+}
+.solbrain{
+    padding: 8px 19px;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}

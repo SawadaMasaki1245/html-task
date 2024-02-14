@@ -1,0 +1,75 @@
+body{
+    background-image: url(img/Stone.jpg);
+    min-width: 700px;
+}
+a{
+    width: 50%;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(165, 249, 243);
+    display: block;
+    text-decoration: none ;
+    }
+    a:hover{
+        background-color: blue;
+        color: white;
+        margin: 0 auto;
+    }
+.x{
+    width: 60%;
+    height: 30%;
+    margin: 0 auto;
+}
+.box img{
+    width: 90%;
+    height: 90%;
+    background-image: url(img/red.jpg);
+    object-fit: contain;
+    padding: 10px;
+    margin: 0 auto;
+}
+.box2 img{
+    width: 90%;
+    height: 90%;
+    background-image: url(img/red.jpg);
+    object-fit: contain;
+    padding: 10px;
+    margin: 0 auto;
+}
+.box{
+    background-image: url(img/ゴールド.jpg);
+    display: flex;
+}
+.box2{
+    background-image: url(img/ゴールド.jpg);
+    display: flex;
+}
+.item{
+    text-align: center;
+}
+h1{
+    border: 4px solid;
+    border-radius: 8px;
+    border-color: #ffffff;
+    font-family: 'cursive',serif;
+    color: #ffffff;
+    text-align: center;
+}
+h2{
+    width: 90%;
+    background-image: url(img/red2.jpg);
+    color: hsl(69, 95%, 63%);
+    margin: 0 auto;
+}
+p{
+    width: 90%;
+    border-radius: 4px;
+    color: #ffffff;
+    background-image: url(img/Brown.jpg);
+    margin: 0 auto;
+}
+.center{
+    width: 80%;
+    margin: 0 auto;
+}

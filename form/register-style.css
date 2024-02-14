@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+input[email] {
+    size: 30px;
+}
+
+th {
+    background-color: hsl(18, 52%, 64%);
+
+    vertical-align: top;
+}
+
+td {
+    background-color: hsl(0, 0%, 100%);
+
+
+}
+
+th,td {
+    padding: 25px;
+    text-align: left;
+    border:1px solid #000000f9;
+}
+
+.bg-red {
+    background-color: hsl(0, 84%, 48%);
+    border-radius: 20%;
+    font-size: 10px;
+    margin-left: 4px;
+}
+
+.font-small {
+    font-size: 10px;
+    margin-left: 4px;
+}
+.bg-brack{
+    background-color: rgb(164, 145, 145);
+}

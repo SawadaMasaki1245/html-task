@@ -1,0 +1,41 @@
+html{
+    background-image: url(../index.img/サイバー背景.jpg);
+}
+body{
+    min-width: 700px;
+}
+.breadcrumbs{
+    color: aliceblue;
+}
+header,footer{
+    background-image:url(../index.img/サイバー１.jpg);
+    opacity: 0.8;
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+header{
+    width: 100%;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+header ul li{
+    width: 20%;
+    text-align: center;
+}
+header ul li a{
+    display: block;
+    padding: 0.5rem;
+    color: rgb(25, 208, 240);
+    text-decoration: none;
+    /*太字にするプロパティ*/
+    font-weight: bold;
+}
+header ul li + li{
+    border-left: 2px solid rgb(47, 8, 221);
+}
+footer{
+    color: aliceblue;
+}
